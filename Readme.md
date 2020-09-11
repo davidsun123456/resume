@@ -5,4 +5,11 @@
 My resume.
 
 ## Education
-2020 Master Columbia University
+2019 - 2020 Master Columbia University https://www.columbia.edu/
+
+2015 - 2019 Bachelor University of Nottingham https://www.nottingham.ac.uk/
+
+## Research Interest
+GIS
+
+Data analysis
